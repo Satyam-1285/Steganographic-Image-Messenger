@@ -1,1 +1,1 @@
-# Steganographic-Image-Messenger
+# Steganographic-Image-Messenger Don't trust what you see. GhostPixel hides encrypted payloads within the LSB (Least Significant Bit) of standard images, making them invisible to the human eye and traditional metadata scrapers
